@@ -2,5 +2,5 @@ projectKey=weatherforecast
 serverUrl=http://localhost:9000
 serverVersion=8.1.0.31237
 dashboardUrl=http://localhost:9000/dashboard?id=weatherforecast
-ceTaskId=AXBUIh0G15zsFnxWjgc6
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXBUIh0G15zsFnxWjgc6
+ceTaskId=AXBUJVS015zsFnxWjgc9
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXBUJVS015zsFnxWjgc9
