@@ -1,0 +1,1 @@
+ 2csXhr7obj/Debug/netcoreapp3.1/weatherforecast.AssemblyInfo.cs
