@@ -30,7 +30,11 @@ namespace weatherforecast.Controllers
         {
 			while(true) {
 				System.Threading.Thread.Sleep(100);
-				
+			}
+			
+			int c = 0;
+			
+			c =+ 5;
 			
             var rng = new Random();
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
